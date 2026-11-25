@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 @section('title', 'Knowledge Base')
 @section('content')
 <section class="section">

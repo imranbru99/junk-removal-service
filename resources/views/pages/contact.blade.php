@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'Contact Clearway Junk Co.')
 @section('meta_description', 'Request a junk removal quote from Clearway Junk Co. in Austin — call, WhatsApp, or send the form.')

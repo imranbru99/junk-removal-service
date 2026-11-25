@@ -1,4 +1,4 @@
-﻿@extends('layouts.app')
+@extends('layouts.app')
 
 @section('title', 'Clearway Junk Co.')
 @section('meta_description', 'Same-day junk hauling, furniture removal, garage cleanouts, and construction debris pickup across Austin and Central Texas by Clearway Junk Co.')
